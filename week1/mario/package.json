@@ -1,0 +1,11 @@
+{
+  "name": "mario",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "description": "CS50 Mario problem solved in JavaScript with modular input handling",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "node ."
+  }
+}
