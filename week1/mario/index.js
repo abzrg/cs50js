@@ -1,4 +1,4 @@
-import { getInt } from "./helper.js";
+import { getInt } from "../../helper/helper.js";
 
 async function main() {
   let height = null;
